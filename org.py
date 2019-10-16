@@ -1,5 +1,7 @@
 import builtwith
-id=input("id ? ? ?")
+wq='\t\t*******************************************************\n\n\n \t\t         telegram chanell : @persian_cyber_org \n\n\n\t\t*******************************************************'
+print(wq)
+id=input("\n\nid ? ? ?")
 message=input("message ? ? ?")
 pass1='9323'
 q=4
