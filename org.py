@@ -1,5 +1,5 @@
 import builtwith
-wq='\t\t*******************************************************\n\n\n \t\t         telegram chanell : @persian_cyber_org \n\n\n\t\t*******************************************************'
+wq='\t*******************************************************\n\n\n \t         telegram chanell : @persian_cyber_org \n\n\n\t*******************************************************'
 print(wq)
 id=input("\n\nid ? ? ?")
 message=input("message ? ? ?")
