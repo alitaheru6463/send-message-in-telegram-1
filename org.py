@@ -16,4 +16,4 @@ if n == pass1:
 else :
     print("error password")
     
-input("T H E   E N D  .  .  .")
+input("\n\n\tT H E   E N D  .  .  .")
