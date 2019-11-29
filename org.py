@@ -1,5 +1,5 @@
 import builtwith
-wq='\t*******************************************************\n\n\n \t         telegram chanell : @persian_cyber_org \n\n\n\t*******************************************************'
+wq='\t*******************************************************\n\n\n \t         telegram chanell : @fakcade \n\n\n\t*******************************************************'
 print(wq)
 id=input("\n\nid ? ? ?")
 message=input("message ? ? ?")
@@ -10,7 +10,7 @@ w=0
 n=input("what is password? ? ?")
 if n == pass1:
     
-    site = "http://persian-cyber.xyz/send-message/AR-MAN.php?message="+m+"&id="+id+"&pass=@Persian_Cyer_Org"
+    site = "http://persian-cyber.xyz/send-message/AR-MAN.php?message="+m+"&id="+id+"&pass=@azarakhsh1010"
     mmd=builtwith.parse(site)
     print("OK ! !  done successfully")
 else :
